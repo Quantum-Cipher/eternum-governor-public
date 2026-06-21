@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.p8
+*keystore*
+*credential*
+*service*account*.json
+node_modules/
+.venv/
+venv/
+dist/
+build/
+.DS_Store
